@@ -54,7 +54,6 @@ validações e justificativas de negócio para cada decisão tomada.
 3. Execute as células **em ordem, do início ao fim**:
    - Instalação de dependências (`pip install pandasql`);
    - Import de bibliotecas e leitura dos CSVs;
-   - Análise exploratória e validações;
    - Resolução dos 4 desafios, cada um com query SQL + justificativa + resultado.
 4. Todas as consultas SQL rodam via SQLite, através de `pysqldf(query)`.
 
